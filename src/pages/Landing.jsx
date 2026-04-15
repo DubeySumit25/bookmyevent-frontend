@@ -117,7 +117,7 @@ const Landing = () => {
 
       {/* Footer */}
       <footer className="bg-gray-900 border-t border-gray-800 py-8 px-4 text-center text-gray-500 text-sm">
-        <p>🎟️ BookMyEvent © 2024 | Built with Spring Boot + React</p>
+        <p>🎟️ BookMyEvent| Built with Spring Boot + React</p>
       </footer>
     </div>
   )
